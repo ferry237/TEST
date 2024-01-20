@@ -198,7 +198,7 @@ html {
         .ou-avec > hr{
             width: 10rem;
             height: 0.2rem;
-            background-color: gray;
+            background-color: rgb(255, 255, 255);
         }
         .ou-avec> p{
             font-size: 2rem;
